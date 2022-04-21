@@ -8,6 +8,10 @@ Remoto
 
 ![](https://odi.ucr.ac.cr/plantillas/ucr_4/imagenes/firma-ucr-ico.png)
 
+Con tamaño modificado y con tag de HTML
+img src="https://odi.ucr.ac.cr/plantillas/ucr_4/imagenes/firma-ucr-ico.png" alt="Logo de la UCR" width="624" height="322">
+
+
 Local
 
 ![](firma-ucr-ico.png)
