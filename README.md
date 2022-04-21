@@ -23,8 +23,8 @@ Lista numerada
 
 Lista no numerada
 
--Primer item
-    -Otro item
-    -Otro item más
--Segundo item
--Tercer item
+- Primer item
+    - Otro item
+    - Otro item más
+- Segundo item
+- Tercer item
