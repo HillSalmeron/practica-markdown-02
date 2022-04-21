@@ -11,3 +11,20 @@ Remoto
 Local
 
 ![](firma-ucr-ico.png)
+
+*Texto en italica*
+**Texto en negrita**
+
+Lista numerada
+
+1. Uno
+2. Dos
+3. Tres
+
+Lista no numerada
+
+-Primer item
+    -Otro item
+    -Otro item más
+-Segundo item
+-Tercer item
