@@ -2,6 +2,7 @@
 
 <h1> Encabezado nivel 1 HTML</h1>
 <h2> Encabezado nivel 2 HTML</h2>
+<h3> Encabezado nivel 3 HTML</h3>
 ...
 
 <h6> Encabezado nivel 6 HTML</h6>
