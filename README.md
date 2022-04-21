@@ -4,5 +4,5 @@
 
 Logo de la UCR
 
-Remoto
 ![](https://odi.ucr.ac.cr/plantillas/ucr_4/imagenes/firma-ucr-ico.png)
+Remoto
